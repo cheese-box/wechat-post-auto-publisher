@@ -1,0 +1,16 @@
+langchain-core
+langchain-openai
+langgraph
+python-dotenv
+requests
+pysocks
+socksio
+markdown
+premailer
+beautifulsoup4
+playwright
+chromium
+Pillow
+browser-use
+nest_asyncio
+pylatexenc
